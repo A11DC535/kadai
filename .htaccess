@@ -2,4 +2,4 @@ Options +FollowSymLinks
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ /kadai/ [QSA,L]
+RewriteRule ^(.*)$ /webpro2exam/ [QSA,L]

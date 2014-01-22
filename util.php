@@ -2,7 +2,7 @@
 
 function IncludePathSetting($dispatcher){
    
-        $path = '/USBDISK/server/UniServer/www/kadai';
+        $path = '/USBDISK/server/UniServer/www/webpro2exam';
         
         $dispatcher->setSystemRoot($path);
     }
